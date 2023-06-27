@@ -10,6 +10,7 @@ import eletronicosHeader from 'assets/categorias/header/eletronicos.png';
 import escritorioHeader from 'assets/categorias/header/escritorio.png';
 import jogosHeader from 'assets/categorias/header/jogos.png';
 import somHeader from 'assets/categorias/header/som.png';
+import refri from 'assets/categorias/header/refris.png';
 
 const initialState = [{
   nome: 'Hamburguers',
@@ -17,13 +18,13 @@ const initialState = [{
   header: hambfundo,
   id: 'hamburguers',
   descricao: 'Os melhores Hamburguers da cidade estão aqui!'
-},/* {
-  nome: 'Automotivo',
-  thumbnail: automotivoThumb,
-  header: automotivoHeader,
-  id: 'automotivos',
-  descricao: 'Encontre aqui equipamentos para deixar seu carro com a sua cara!'
 }, {
+  nome: 'Bebidas',
+  thumbnail: refri,
+  header: refri,
+  id: 'automotivos',
+  descricao: 'Os melhores Sucos e Refrigerantes gelados(ou não), disponíveis pra você! '
+},/* {
   nome: 'Jogos',
   thumbnail: jogosThumb,
   header: jogosHeader,

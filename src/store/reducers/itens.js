@@ -67,7 +67,7 @@ const initialState = [{
   preco: 447,
   id: uuid(),
   categoria: 'hamburguers'
-},*/ {
+}, {
   titulo: 'Almofada de assento',
   descricao: 'Feito de material de couro, confortável e suave. Couro ambiental natural dá uma sensação delicada. Adequado para uso durante todo o ano. Com as funções de aquecimento e ventilação do assento de carro podem ser usadas normalmente.',
   foto: almofadaAssento,
@@ -107,7 +107,7 @@ const initialState = [{
   preco: 59.90,
   id: uuid(),
   categoria: 'automotivos'
-}, {
+},*/ {
   titulo: 'Console',
   descricao: 'O console que está em pré-venda oferece novas possibilidades de jogabilidade que você nunca imaginou. Além disso, você também pode baixar jogos digitais, Experimente o carregamento extremamente rápido do SSD de 825GB com ultra-velocidade, uma imersão mais profunda com suporte à resposta tátil, gatilhos adaptáveis e áudio 3D.',
   foto: console1,
