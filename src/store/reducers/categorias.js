@@ -14,7 +14,7 @@ import refri from 'assets/categorias/header/refris.png';
 import sucos from 'assets/categorias/thumbnail/sucos.png';
 
 const initialState = [{
-  nome: 'Hamburguers',
+  nome: 'Burguers',
   thumbnail: hamb,
   header: hambfundo,
   id: 'hamburguers',
