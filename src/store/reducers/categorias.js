@@ -11,6 +11,7 @@ import escritorioHeader from 'assets/categorias/header/escritorio.png';
 import jogosHeader from 'assets/categorias/header/jogos.png';
 import somHeader from 'assets/categorias/header/som.png';
 import refri from 'assets/categorias/header/refris.png';
+import sucos from 'assets/categorias/thumbnail/sucos.png';
 
 const initialState = [{
   nome: 'Hamburguers',
@@ -20,7 +21,7 @@ const initialState = [{
   descricao: 'Os melhores Hamburguers da cidade estão aqui!'
 }, {
   nome: 'Bebidas',
-  thumbnail: refri,
+  thumbnail: sucos,
   header: refri,
   id: 'automotivos',
   descricao: 'Os melhores Sucos e Refrigerantes gelados(ou não), disponíveis pra você! '
