@@ -3,7 +3,7 @@ import { FaWhatsapp, FaInstagram } from 'react-icons/fa';
 
 const iconeProps = {
   color: 'white',
-  size: 24,
+  size: '1.5em',
 }
 
 const currentYear = new Date().getFullYear(); 
